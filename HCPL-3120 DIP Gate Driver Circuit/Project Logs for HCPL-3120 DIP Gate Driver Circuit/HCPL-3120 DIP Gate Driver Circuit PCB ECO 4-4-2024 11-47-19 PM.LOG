@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetePWM_3 Pin=R7-1
+Removed Pin From Net: NetName=NetePWM_3 Pin=R8-1
+Removed Pin From Net: NetName=NetePWM_5 Pin=R13-1
+Removed Pin From Net: NetName=NetePWM_5 Pin=R14-1
+Removed Pin From Net: NetName=NetePWM_2 Pin=R19-1
+Removed Pin From Net: NetName=NetePWM_2 Pin=R20-1
+Removed Pin From Net: NetName=NetePWM_4 Pin=R25-1
+Removed Pin From Net: NetName=NetePWM_4 Pin=R26-1
+Added Pin To Net: NetName=NetePWM_2 Pin=R7-1
+Added Pin To Net: NetName=NetePWM_2 Pin=R8-1
+Added Pin To Net: NetName=NetePWM_3 Pin=R13-1
+Added Pin To Net: NetName=NetePWM_3 Pin=R14-1
+Added Pin To Net: NetName=NetePWM_4 Pin=R19-1
+Added Pin To Net: NetName=NetePWM_4 Pin=R20-1
+Added Pin To Net: NetName=NetePWM_5 Pin=R25-1
+Added Pin To Net: NetName=NetePWM_5 Pin=R26-1

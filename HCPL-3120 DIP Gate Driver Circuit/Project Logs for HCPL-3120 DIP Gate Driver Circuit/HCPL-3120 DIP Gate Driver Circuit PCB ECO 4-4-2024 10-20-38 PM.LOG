@@ -1,0 +1,132 @@
+Change Component Footprint: Designator=UBT Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=UGT Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=VBT Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=VGT Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=WBT Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=WGT Old Footprint=61300211121 New Footprint=61300211121
+Change Component Footprint: Designator=P1 Old Footprint=61300711121 New Footprint=61300711121
+Change Component Footprint: Designator=JBT Old Footprint=691214110003 New Footprint=691214110003
+Change Component Footprint: Designator=JUT Old Footprint=691214110003 New Footprint=691214110003
+Change Component Footprint: Designator=JVT Old Footprint=691214110003 New Footprint=691214110003
+Change Component Footprint: Designator=JWT Old Footprint=691214110003 New Footprint=691214110003
+Change Component Footprint: Designator=Power1 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Power2 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Power3 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Power4 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Power5 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Power6 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Signal1 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Signal2 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Signal3 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Signal4 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Signal5 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Footprint: Designator=Signal6 Old Footprint=WL-TMRC_D3.95H5.3 New Footprint=WL-TMRC_D3.95H5.3
+Change Component Comment : Designator=D11 Old Comment=1N4749A New Comment=6
+Change Component Designator: OldDesignator=C1 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C14
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C10 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C8
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C19
+Change Component Designator: OldDesignator=C17 NewDesignator=C24
+Change Component Designator: OldDesignator=C18 NewDesignator=C29
+Change Component Designator: OldDesignator=C19 NewDesignator=C17
+Change Component Designator: OldDesignator=C20 NewDesignator=C16
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C21
+Change Component Designator: OldDesignator=C23 NewDesignator=C27
+Change Component Designator: OldDesignator=C24 NewDesignator=C26
+Change Component Designator: OldDesignator=C25 NewDesignator=C18
+Change Component Designator: OldDesignator=C26 NewDesignator=C20
+Change Component Designator: OldDesignator=C27 NewDesignator=C23
+Change Component Designator: OldDesignator=C28 NewDesignator=C25
+Change Component Designator: OldDesignator=C29 NewDesignator=C28
+Change Component Designator: OldDesignator=D2 NewDesignator=ZD2
+Change Component Designator: OldDesignator=D3 NewDesignator=ZD1
+Change Component Designator: OldDesignator=D4 NewDesignator=ZD3
+Change Component Designator: OldDesignator=D5 NewDesignator=D2
+Change Component Designator: OldDesignator=D6 NewDesignator=D3
+Change Component Designator: OldDesignator=D7 NewDesignator=ZD5
+Change Component Designator: OldDesignator=D8 NewDesignator=ZD8
+Change Component Designator: OldDesignator=D9 NewDesignator=ZD4
+Change Component Designator: OldDesignator=D10 NewDesignator=ZD7
+Change Component Designator: OldDesignator=D11 NewDesignator=ZD6
+Change Component Designator: OldDesignator=D12 NewDesignator=ZD9
+Change Component Designator: OldDesignator=D13 NewDesignator=D4
+Change Component Designator: OldDesignator=D14 NewDesignator=D5
+Change Component Designator: OldDesignator=D15 NewDesignator=D6
+Change Component Designator: OldDesignator=D16 NewDesignator=ZD11
+Change Component Designator: OldDesignator=D17 NewDesignator=ZD14
+Change Component Designator: OldDesignator=D18 NewDesignator=ZD17
+Change Component Designator: OldDesignator=D19 NewDesignator=ZD10
+Change Component Designator: OldDesignator=D20 NewDesignator=ZD13
+Change Component Designator: OldDesignator=D21 NewDesignator=ZD16
+Change Component Designator: OldDesignator=D22 NewDesignator=ZD12
+Change Component Designator: OldDesignator=D23 NewDesignator=ZD15
+Change Component Designator: OldDesignator=D24 NewDesignator=ZD18
+Change Component Designator: OldDesignator=P1 NewDesignator=ePWM
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R15
+Change Component Designator: OldDesignator=R10 NewDesignator=R16
+Change Component Designator: OldDesignator=R11 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R17
+Change Component Designator: OldDesignator=R15 NewDesignator=R7
+Change Component Designator: OldDesignator=R16 NewDesignator=R13
+Change Component Designator: OldDesignator=R17 NewDesignator=R12
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R27
+Change Component Designator: OldDesignator=R22 NewDesignator=R28
+Change Component Designator: OldDesignator=R23 NewDesignator=R33
+Change Component Designator: OldDesignator=R24 NewDesignator=R34
+Change Component Designator: OldDesignator=R25 NewDesignator=R20
+Change Component Designator: OldDesignator=R27 NewDesignator=R32
+Change Component Designator: OldDesignator=R28 NewDesignator=R23
+Change Component Designator: OldDesignator=R30 NewDesignator=R35
+Change Component Designator: OldDesignator=R31 NewDesignator=R19
+Change Component Designator: OldDesignator=R32 NewDesignator=R25
+Change Component Designator: OldDesignator=R33 NewDesignator=R31
+Change Component Designator: OldDesignator=R34 NewDesignator=R24
+Change Component Designator: OldDesignator=R35 NewDesignator=R30
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetZD2_2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetZD5_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetZD8_2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD13_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD14_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD14_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD15_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD15_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD16_2 New Net Name=NetZD11_2
+Change Net Name : Old Net Name=NetD17_2 New Net Name=NetZD14_2
+Change Net Name : Old Net Name=NetD18_2 New Net Name=NetZD17_2
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetePWM_1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetePWM_2
+Change Net Name : Old Net Name=NetP1_3 New Net Name=NetePWM_3
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetePWM_4
+Change Net Name : Old Net Name=NetP1_5 New Net Name=NetePWM_5
+Change Net Name : Old Net Name=NetP1_6 New Net Name=NetePWM_6
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR31_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR32_2 New Net Name=NetR25_2
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR31_2

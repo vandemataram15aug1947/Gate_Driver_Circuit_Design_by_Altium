@@ -1,0 +1,340 @@
+*************************************************************
+FileName = HCPL-3120 Gate Driver Circuit.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : HCPL-3120 Gate Driver Circuit.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D15
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : HCPL-3120 Gate Driver Circuit.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D15
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : HCPL-3120 Gate Driver Circuit.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : HCPL-3120 Gate Driver Circuit.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : HCPL-3120 Gate Driver Circuit.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Designator
+      File : HCPL-3120 Gate Driver Circuit.GM4
+
+    Adding Layer      : Top Designator
+
+
+Used DCodes :
+    D11
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : HCPL-3120 Gate Driver Circuit.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : HCPL-3120 Gate Driver Circuit.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D11
+    D12
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : HCPL-3120 Gate Driver Circuit.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : HCPL-3120 Gate Driver Circuit.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : HCPL-3120 Gate Driver Circuit.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : HCPL-3120 Gate Driver Circuit.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : HCPL-3120 Gate Driver Circuit.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : HCPL-3120 Gate Driver Circuit.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D31
+    D32
+    D33
+    D34
+    D35
+    D39
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : HCPL-3120 Gate Driver Circuit.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D35
+    D39
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : HCPL-3120 Gate Driver Circuit.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D31
+    D32
+    D33
+    D34
+    D35
+    D39
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : HCPL-3120 Gate Driver Circuit.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D31
+    D32
+    D33
+    D34
+    D35
+    D39
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : HCPL-3120 Gate Driver Circuit.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : HCPL-3120 Gate Driver Circuit.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : HCPL-3120 Gate Driver Circuit.GM
+
+
+Used DCodes :
+    D50
+*************************************************************
+
