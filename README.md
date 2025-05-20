@@ -45,6 +45,7 @@ This design is ideal for applications requiring robust and reliable gate driving
 
 ## 📁 Folder Structure
 
+```
 Gate_Driver_Circuit_Design_by_Altium/
 ├── Schematic/                 # Altium schematic sheets (.SchDoc)
 ├── PCB/                      # PCB layout files (.PcbDoc)
@@ -53,7 +54,7 @@ Gate_Driver_Circuit_Design_by_Altium/
 ├── BOM/                      # Bill of Materials in CSV or XLS format
 ├── Outputs/                  # Gerber files, Drill files, Assembly drawings
 └── Simulation/               # (Optional) Simulation test benches or waveform results
-
+```
 
 ---
 
