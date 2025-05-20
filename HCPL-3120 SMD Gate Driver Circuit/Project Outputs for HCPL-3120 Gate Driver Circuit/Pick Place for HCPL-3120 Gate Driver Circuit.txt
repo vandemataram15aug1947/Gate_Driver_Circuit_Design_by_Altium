@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+D:\NIT Calicut\My NITC M.Tech Project\Second Semester Project\Altium Design\Gate_Driver_Circuit\HCPL-3120 Gate Driver Circuit\Project Outputs for HCPL-3120 Gate Driver Circuit\Pick Place for HCPL-3120 Gate Driver Circuit.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       24/03/24
+Time:       15:40
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                                                                       
+ZD6        SZMMSZ4702T1G      TopLayer ONSC-SOD-123-2-425-04_V       2322.836      182.481       270      "Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel"                          
+ZD5        SZMMSZ4702T1G      TopLayer ONSC-SOD-123-2-425-04_V       2165.354      182.481       90       "Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel"                          
+ZD4        MMSZ4688T1G        TopLayer ONSC-SOD-123-2-425-04_V       1811.024      196.851       90       "Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel"                          
+Signal2    151031SS04000      TopLayer WL-TMRC_D3.95H5.3             511.812       461.811       270      "Led, Red, T-1 (3Mm), 635 Nm, 2 V, 30 Ma, 160 Mcd"                                                
+SBR2       DFLS130L-7         TopLayer DIOD-POWERDI123-2_A_V         2217.519      708.661       180      "Schottky Barrier Rectifier, 30 V, 1 A, -40 to 125 degC, 2-Pin SMD, RoHS, Tape and Reel"          
+R12        ERJ-8ENF1002V      TopLayer RESC3216X70X50LL05T20         1968.504      184.056       270      "Res Thick Film 1206 10K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                     
+R11        ERJ-8ENF30R0V      TopLayer RESC3216X70X50NL05T20         2204.724      511.811       0        "Res Thick Film 1206 30 Ohm 1% 0.25W ±100ppm/°C Molded SMD Punched Carrier T/R"                   
+R10        ERJ-8ENF1001V      TopLayer RESC3216X70X50LL05T20         1968.504      826.772       270      "Res Thick Film 1206 1K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                      
+R9         ERJ-8ENF1001V      TopLayer RESC3216X70X50LL05T20         1811.024      826.771       270      "Res Thick Film 1206 1K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                      
+R8         ERJ8ENF3300V       TopLayer RESC3216X70X50LL05T20         511.812       669.291       0        "Res Thick Film 1206 330 Ohm 1% 0.25W ±100ppm/°C Molded SMD Punched Carrier T/R"                  
+R7         ERJ-8ENF1001V      TopLayer RESC3216X70X50LL05T20         354.332       538.385       270      "Res Thick Film 1206 1K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                      
+Power2     151031VS04000      TopLayer WL-TMRC_D3.95H5.3             1968.504      540.551       270      "Led, Green, T-1 (3Mm), 570 Nm, 2.1 V, 30 Ma, 120 Mcd"                                            
+JVGE_UN    TSW-102-07-L-S     TopLayer FP-TSW-102-07-L-S-MFG         2519.688      236.221       270      "CONN HEADER VERT 2POS 2.54MM"                                                                    
+JUB        691214110003       TopLayer 691214110003                  2507.876      748.031       270      ""                                                                                                
+JePWM1B    TSW-102-07-L-S     TopLayer FP-TSW-102-07-L-S-MFG         196.850       551.181       270      "CONN HEADER VERT 2POS 2.54MM"                                                                    
+IC2        HCPL-3120          TopLayer FP-DIP-8-MFG                  825.276       544.449       0        "Optocoupler Drive Push-Pull 1-CH 30V 1500V 8-Pin PDIP Tube"                                      
+C10        EEUTA1H101         TopLayer FP-RAD-TH-D_10_0_5-L_12_5-MFG 1535.432      314.961       270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 100uF ±20% 50V"           
+C9         GRM188R71H104KA93D TopLayer CAPC1608X90X35ML10T15         1220.472      422.244       270      "Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+C8         GRM188R71H104KA93D TopLayer CAPC1608X90X35ML10T15         1102.362      551.181       270      "Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+C7         EEUTA1H101         TopLayer FP-RAD-TH-D_10_0_5-L_12_5-MFG 1535.432      787.401       90       "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 100uF ±20% 50V"           
+C6         GRM188R71H104KA93D TopLayer CAPC1608X90X35ML10T15         1220.472      680.117       270      "Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+R6         ERJ-8ENF1002V      TopLayer RESC3216X70X50LL05T20         1968.504      1351.379      270      "Res Thick Film 1206 10K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                     
+R5         ERJ-8ENF30R0V      TopLayer RESC3216X70X50NL05T20         2204.724      1692.913      0        "Res Thick Film 1206 30 Ohm 1% 0.25W ±100ppm/°C Molded SMD Punched Carrier T/R"                   
+R4         ERJ-8ENF1001V      TopLayer RESC3216X70X50LL05T20         1968.504      2007.875      270      "Res Thick Film 1206 1K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                      
+R3         ERJ-8ENF1001V      TopLayer RESC3216X70X50LL05T20         1811.024      2007.873      270      "Res Thick Film 1206 1K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                      
+JUT        691214110003       TopLayer 691214110003                  2507.878      1929.133      270      ""                                                                                                
+JVGE_UP    TSW-102-07-L-S     TopLayer FP-TSW-102-07-L-S-MFG         2519.686      1417.323      270      "CONN HEADER VERT 2POS 2.54MM"                                                                    
+JePWM1A    TSW-102-07-L-S     TopLayer FP-TSW-102-07-L-S-MFG         196.850       1732.283      270      "CONN HEADER VERT 2POS 2.54MM"                                                                    
+Signal1    151031SS04000      TopLayer WL-TMRC_D3.95H5.3             511.812       1642.913      270      "Led, Red, T-1 (3Mm), 635 Nm, 2 V, 30 Ma, 160 Mcd"                                                
+ZD1        MMSZ4688T1G        TopLayer ONSC-SOD-123-2-425-04_V       1811.024      1363.583      90       "Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel"                          
+ZD3        SZMMSZ4702T1G      TopLayer ONSC-SOD-123-2-425-04_V       2322.836      1363.583      270      "Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel"                          
+ZD2        SZMMSZ4702T1G      TopLayer ONSC-SOD-123-2-425-04_V       2165.354      1363.583      90       "Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel"                          
+SBR1       DFLS130L-7         TopLayer DIOD-POWERDI123-2_A_V         2218.071      1891.299      180      "Schottky Barrier Rectifier, 30 V, 1 A, -40 to 125 degC, 2-Pin SMD, RoHS, Tape and Reel"          
+Power1     151031VS04000      TopLayer WL-TMRC_D3.95H5.3             1968.504      1742.913      270      "Led, Green, T-1 (3Mm), 570 Nm, 2.1 V, 30 Ma, 120 Mcd"                                            
+C4         GRM188R71H104KA93D TopLayer CAPC1608X90X35ML10T15         1220.276      1599.843      270      "Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+C5         EEUTA1H101         TopLayer FP-RAD-TH-D_10_0_5-L_12_5-MFG 1535.434      1496.064      270      "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 100uF ±20% 50V"           
+C3         GRM188R71H104KA93D TopLayer CAPC1608X90X35ML10T15         1102.364      1732.283      270      "Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+C2         EEUTA1H101         TopLayer FP-RAD-TH-D_10_0_5-L_12_5-MFG 1535.434      1968.503      90       "Aluminum Electrolytic Capacitors (Radial Lead Type) AEC-Q200 Qualified 100uF ±20% 50V"           
+C1         GRM188R71H104KA93D TopLayer CAPC1608X90X35ML10T15         1220.472      1861.220      270      "Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel" 
+IC1        HCPL-3120          TopLayer FP-DIP-8-MFG                  826.772       1732.283      0        "Optocoupler Drive Push-Pull 1-CH 30V 1500V 8-Pin PDIP Tube"                                      
+R1         ERJ-8ENF1001V      TopLayer RESC3216X70X50LL05T20         354.332       1719.487      270      "Res Thick Film 1206 1K Ohm 1% 0.25W(1/4W) ±100ppm/C Pad SMD Automotive T/R"                      
+R2         ERJ8ENF3300V       TopLayer RESC3216X70X50LL05T20         511.812       1850.393      0        "Res Thick Film 1206 330 Ohm 1% 0.25W ±100ppm/°C Molded SMD Punched Carrier T/R"                  

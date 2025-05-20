@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [HCPL-3120 Gate Driver Circuit.PrjPcb]
+   Generated File[Pick Place for HCPL-3120 Gate Driver Circuit.txt]
+   Generated File[Pick Place for HCPL-3120 Gate Driver Circuit.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 3:40:22 PM On 3/24/2024

@@ -1,0 +1,101 @@
+Change Component Footprint: Designator=C? Old Footprint=CAPRD5-9X3 New Footprint=A
+Change Component Footprint: Designator=C? Old Footprint=CAPRD5-13X3 New Footprint=F
+Change Component Footprint: Designator=Q? Old Footprint=FP-709AC-MFG New Footprint=FP-709AC-MFG
+Change Component Comment : Designator=C? Old Comment=HAE152MBABF0K New Comment=94SC225X0016ABP
+Change Component Comment : Designator=C? Old Comment=HAX103SBACF0K New Comment=94SS477X0004FBP
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPRD5-13X3"; UniqueID = "\SAJOAUPL" ("\SAJOAUPL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/90008/94ss.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "23-May-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to the nearest 0.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "Part Numbers shown are for ± 20% capacitance tolerance (X0)."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C?" ("C?"); Footprint = "CAPRD5-9X3"; UniqueID = "\OWTJZGGT" ("\OWTJZGGT")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/90004/94sc.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "23-May-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to the nearest 0.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "Part Numbers shown are for ± 20% capacitance tolerance (X0)."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RAD0.2-1
+Add Component: Footprint Not Found C_EL_6X11
+Add Component: Footprint Not Found C_EL_6X11
+Add Component: Footprint Not Found C_PLY_6X2_5
+Added Component: Designator=C?(E)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.vishay.com/docs/90003/94sa.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "29-Jun-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Nominal, Rounded to the nearest 0.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Part Numbers shown are for ± 20% capacitance tolerance (X0)."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "19-Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found D_AX04_DO41
+Add Component: Footprint Not Found D_AX04_DO41
+Add Component: Footprint Not Found FP-DIP-8-MFG
+Add Component: Footprint Not Found TBG_2
+Add Component: Footprint Not Found TBG_2
+Add Component: Footprint Not Found TBG_2
+Add Component: Footprint Not Found TBG_2
+Add Component: Footprint Not Found TO247_31
+Add Component: Footprint Not Found R025W_AX04
+Add Component: Footprint Not Found R05W_AX05
+Add Component: Footprint Not Found R025W_AX04
+Add Component: Footprint Not Found R025W_AX04
+Add Component: Footprint Not Found TPTHD_B_WHT
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Add Pin To Net: Unknown Pin: Pin P3-1
+Add Pin To Net: Unknown Pin: Pin P3-2
+Add Pin To Net: Unknown Pin: Pin P4-1
+Add Pin To Net: Unknown Pin: Pin P4-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin TP1-1

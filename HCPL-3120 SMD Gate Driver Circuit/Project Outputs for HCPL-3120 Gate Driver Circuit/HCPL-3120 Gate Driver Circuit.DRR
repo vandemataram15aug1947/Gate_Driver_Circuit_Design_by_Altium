@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HCPL-3120 Gate Driver Circuit.PcbDoc   3/24/2024  3:35:46 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HCPL-3120 Gate Driver Circuit.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.4mm (16mil)                                             Round             2         PTH        29.42mm (1.16inch)
+T2      0.8mm (31mil)                                             Round             9         PTH        71.70mm (2.82inch)
+T3      0.9mm (35mil)                                             Round             16        PTH        80.97mm (3.19inch)
+T4      1mm (39mil)                                               Round             8         PTH        114.21mm (4.50inch)
+T5      1.02mm (40mil)                                            Round             8         PTH        130.59mm (5.14inch)
+T6      1.3mm (51mil)                                             Round             5         PTH        33.50mm (1.32inch)
+T7      1.9mm (75mil)                                             Round             2         NPTH       84.44mm (3.32inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              50
+
+Total Processing Time (hh:mm:ss) : 00:00:00
