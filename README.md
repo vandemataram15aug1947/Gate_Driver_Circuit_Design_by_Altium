@@ -1,4 +1,3 @@
-# Gate_Driver_Circuit_Design_by_Altium
 
 # 🔌 Gate_Driver_Circuit_Design_by_Altium
 
